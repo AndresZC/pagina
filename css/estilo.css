@@ -1,0 +1,115 @@
+body{
+
+		font: 15px Arial, Helvetica, sans-serif;
+		padding: 0;
+		margin: 0;
+		background-color: #f4f4f4;
+
+}
+.Contenedor{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+
+}
+ul{
+	margin: 0;
+	padding: 0;
+
+}
+
+.boton1{
+	height: 38px;
+	background: #e8491d;
+	border: 0;
+	padding-right: 20px;
+	padding-left:  20px;
+	color: #fff;
+
+}
+
+header{
+	background-color: #24282b;
+	color: #fff;
+	padding-top: 30px;
+	min-height: 70px;
+	border-bottom: 5px solid #1293D4;
+}
+
+header a{
+	color: #fff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font: 16px;
+
+}
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px;
+
+}
+
+header #marca{
+	float: left;
+}
+header #marca h1{
+	margin: 0;
+
+}
+header nav{
+	float: right;
+	margin-top: 10px;
+}
+header .resultado, header .actual a{
+	color: #1293d4;
+	font-weight: bold;
+
+}
+header a:hover{
+	color: #ccc;
+	font-weight: bold;
+}
+
+#cajas {
+	margin-top: 20px;
+
+}
+
+#cajas .caja {
+	float: left;
+	text-align: center;
+	width: 30%;
+	padding: 10px;
+
+
+}
+
+#cajas .caja img {
+	width: 80px;
+
+}
+
+footer {
+	padding: 20px;
+	margin-top: 20px;
+	color: #fff;
+	background-color: #1293d4;
+	text-align: center;
+}
+
+form#epa {
+
+	padding: 30px 60px 30px 400px;
+}
+
+body #vd{
+	margin-top: 40px;
+	padding-right: 400px;
+}
+
+#presentacion{
+	margin-top: 60px;
+	font: 30px;
+	padding: 30px 60px 30px 400px;
+}
